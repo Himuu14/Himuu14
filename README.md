@@ -33,32 +33,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%206%20mins-blue)
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages:
-TypeScript               4 hrs 11 mins       ████████████████████████░   97.01%
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
-
-🐱‍💻 Projects:
-resvue                   2 hrs 15 mins       █████████████████████████   100.0%
-
-💻 Operating System:
-Windows                  2 hrs 15 mins       █████████████████████████   100.0%
-
-```
-
-Last Updated on 18/11/2022 18:48:14 UTC
-
-<!--END_SECTION:waka-->
-
 📈 **My Github Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Himuu14&show_icons=true&theme=gotham" alt="Himuu14" />
