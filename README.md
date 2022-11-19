@@ -17,7 +17,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img alt="GIF" src="https://github.com/Himuu14/Himuu14/blob/main/animated.gif?raw=true" width="500" height="320" />
   
-- 💼 Contact me ? , [email](mailto: himuu999@gmail.com) :)
+- 💼 Contact me ? , [email](mailto:himuu999@gmail.com):)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**
@@ -43,7 +43,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
-TypeScript               2 hrs 11 mins       ████████████████████████░   97.01%
+TypeScript               4 hrs 11 mins       ████████████████████████░   97.01%
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
