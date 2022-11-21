@@ -37,5 +37,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Himuu14&show_icons=true&theme=gotham" alt="Himuu14" />
 
-[(https://github-activity-graphs.herokuapp.com/graph?username=Himuu14&custom_title=Himansh's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/Himuu14/github-readme-activity-graph)
+[![Please reload page for activity graph](https://github-activity-graphs.herokuapp.com/graph?username=Himuu14&custom_title=Himansh's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/Himuu14/github-readme-activity-graph)
 
+**:zap: Recent Activity:**
