@@ -7,17 +7,17 @@
   <img align="left" alt="Himansh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Himuu14.Himuu14)
+![](https://vbr.wocr.tk/badge?page_id=Himuu14.Himuu14)
 
 <br />
 
-Hi, I'm [Himansh Mishra](https://twitter.com/Himansh29512995), A passionate self-taught Full stack web developer and a Software Engineer from India .
+Hi, I'm [Himansh Mishra](https://twitter.com/Himansh29512995), A passionate self-taught Full stack web developer and a Software Engineer from India.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img alt="GIF" src="https://github.com/Himuu14/Himuu14/blob/main/animated.gif?raw=true" width="500" height="320" />
   
-- 💼 Contact me ? , [email](mailto:himuu999@gmail.com):)
+- 💼 Contact me? , [email](mailto:himuu999@gmail.com):)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**
@@ -36,7 +36,3 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📈 **My Github Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Himuu14&show_icons=true&theme=gotham" alt="Himuu14" />
-
-[![Please reload page for activity graph](https://github-activity-graphs.herokuapp.com/graph?username=Himuu14&custom_title=Himansh's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/Himuu14/github-readme-activity-graph)
-
-**:zap: Recent Activity:**
