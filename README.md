@@ -1,17 +1,17 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/Himansh29512995">
-  <img align="left" alt="Himansh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />
+  <img align="left" alt="Himansh | Twitter" />
 </a>
 <a href="https://www.linkedin.com/in/himansh-mishra-b18a69169/">
-  <img align="left" alt="Himansh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Himansh's LinkedIN" />
 </a>
 
 ![](https://vbr.wocr.tk/badge?page_id=Himuu14.Himuu14)
 
 <br />
 
-Hi, I'm [Himansh Mishra](https://twitter.com/Himansh29512995), A passionate self-taught Full stack web developer and a Software Engineer from India.
+Hi, I'm [Himansh Mishra](https://twitter.com/Himansh29512995), A passionate self-taught Full-stack web developer and a Software Engineer from India.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
