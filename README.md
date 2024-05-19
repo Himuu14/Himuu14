@@ -2,6 +2,8 @@
 
 <a href="https://twitter.com/Himansh29512995">
   <img align="left" alt="Himansh | Twitter" />
+  ![image](https://github.com/Himuu14/Himuu14/assets/88498643/9fa4d806-d596-41da-8be5-da4381b871d6)
+
 </a>
 <a href="https://www.linkedin.com/in/himansh-mishra-b18a69169/">
   <img align="left" alt="Himansh's LinkedIN" />
@@ -11,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Himansh Mishra](https://twitter.com/Himansh29512995), A passionate self-taught Full-stack web developer and a Software Engineer from India.
+Hi, I'm [Himansh Mishra](https://twitter.com/Himansh29512995), A passionate self-taught DevSecOps engineer from India.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
