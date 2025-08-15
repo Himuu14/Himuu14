@@ -31,8 +31,6 @@ Hi, I'm [Himansh Mishra](https://twitter.com/Himansh29512995), a passionate **Cl
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" alt="Security"></code>
 
 ---
 
