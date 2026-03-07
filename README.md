@@ -44,9 +44,3 @@ Hi, I'm [Himansh Mishra](https://twitter.com/Himansh29512995), a passionate **Cl
 - <img src="https://img.shields.io/badge/IBM-Python%20Certificate-lightblue?logo=ibm&logoColor=white" alt="IBM Python Certificate" /> **Python Certificate (IBM)**
 
 ---
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himuu14&show_icons=true&theme=gotham" alt="Himuu14" />
-</p>
